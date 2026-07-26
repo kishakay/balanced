@@ -1,0 +1,19 @@
+# Build
+**/target/
+**/dist/
+**/node_modules/
+backend/src/main/resources/static/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+.env
+.env.*
+
+# Coverage / misc
+coverage/
+*.class
+.turbo/
